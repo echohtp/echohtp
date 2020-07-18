@@ -6,9 +6,9 @@
 
 - 👯 I’m looking to collaborate on **SaaS product ideas!**
 
-- 👨‍💻 All of my projects are available at [0xbanana.com/portfolio](0xbanana.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://0xbanana.com/portfolio](0xbanana.com/portfolio)
 
-- 📝 I regularly write articles on [0xbanana.com](0xbanana.com)
+- 📝 I regularly write articles on [https://0xbanana.com](0xbanana.com)
 
 - 💬 Ask me about **React.js, python, and security**
 
