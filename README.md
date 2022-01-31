@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jason Alvarez Schorr</h1>
-<h3 align="center">A passionate security engineer and information security practitioner based in New York City.</h3>
+<h3 align="center">A passionate web3 engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echohtp" alt="echohtp" /> </p>
 
-- 🔭 I’m currently working on **several projects and community efforts.**
-
-- 👯 I’m looking to collaborate on **SaaS product ideas!**
-
-- 👨‍💻 All of my projects are available at [https://0xbanana.com/portfolio](0xbanana.com/portfolio)
-
-- 📝 I regularly write articles on [https://0xbanana.com](0xbanana.com)
-
-- 💬 Ask me about **React.js, python, and security**
-
-- 📫 How to reach me **jason@spyglassltd.com**
+- 🔭 I’m currently working on **Holaplex.com*
 
 - ⚡ Fun fact **I have a cute dog named Ziggy**
 
