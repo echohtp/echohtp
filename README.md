@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web3 engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echohtp" alt="echohtp" /> </p>
 
-- 🔭 I’m currently working @[tensor](tensor.so)!
+- 🔭 I’m currently a Dev Rel Advocate @ [tensor](https://tensor.so)!
 
 - ⚡ Fun fact **I have a cute dog named Ziggy**
 
